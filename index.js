@@ -181,4 +181,4 @@ function format(xml, options = {}) {
 }
 
 
-module.exports = format;
+export default format;
